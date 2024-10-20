@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Network-Speed-test/static/css/main.9445f9f5.css",
+    "main.js": "/Network-Speed-test/static/js/main.2efa03c2.js",
+    "static/js/453.7a31d736.chunk.js": "/Network-Speed-test/static/js/453.7a31d736.chunk.js",
+    "index.html": "/Network-Speed-test/index.html",
+    "main.9445f9f5.css.map": "/Network-Speed-test/static/css/main.9445f9f5.css.map",
+    "main.2efa03c2.js.map": "/Network-Speed-test/static/js/main.2efa03c2.js.map",
+    "453.7a31d736.chunk.js.map": "/Network-Speed-test/static/js/453.7a31d736.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9445f9f5.css",
+    "static/js/main.2efa03c2.js"
+  ]
+}
